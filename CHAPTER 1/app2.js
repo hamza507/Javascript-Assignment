@@ -1,1 +1,0 @@
-alert ("Welcome to Javascript Land... Happy Coding");
